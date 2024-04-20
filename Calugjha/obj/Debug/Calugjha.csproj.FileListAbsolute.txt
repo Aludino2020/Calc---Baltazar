@@ -1,0 +1,10 @@
+C:\Users\islab\source\repos\Calugjha\Calugjha\obj\Debug\Calugjha.csproj.AssemblyReference.cache
+C:\Users\islab\source\repos\Calugjha\Calugjha\obj\Debug\Calugjha.Form1.resources
+C:\Users\islab\source\repos\Calugjha\Calugjha\obj\Debug\Calugjha.Properties.Resources.resources
+C:\Users\islab\source\repos\Calugjha\Calugjha\obj\Debug\Calugjha.csproj.GenerateResource.cache
+C:\Users\islab\source\repos\Calugjha\Calugjha\obj\Debug\Calugjha.csproj.CoreCompileInputs.cache
+C:\Users\islab\source\repos\Calugjha\Calugjha\bin\Debug\Calugjha.exe.config
+C:\Users\islab\source\repos\Calugjha\Calugjha\bin\Debug\Calugjha.exe
+C:\Users\islab\source\repos\Calugjha\Calugjha\bin\Debug\Calugjha.pdb
+C:\Users\islab\source\repos\Calugjha\Calugjha\obj\Debug\Calugjha.exe
+C:\Users\islab\source\repos\Calugjha\Calugjha\obj\Debug\Calugjha.pdb
